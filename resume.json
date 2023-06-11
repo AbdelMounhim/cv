@@ -7,7 +7,7 @@
     "email": "abdelmounhim@free.fr",
     "phone": "06.88.23.43.20",
     "url": "https://lefigaro.fr",
-    "summary": "Architecte Logiciel au sein de l'équipe éditoriale du Groupe Figaro, j'ai un profil généraliste. J'automatise les flux, je mets en place des apis, fais évoluer les solutions existantes et les maintient. J'ai mis en place des méthodes de travail agiles (worflow git vers Gitlab, board Jira). Je passe aussi du temps en veille techno pour proposer des solutions à jour. Je spécifie des architectures applicatives (base de données / backend / frontend), et pilote leur mise en oeuvre. J'ai aussi participé aussi au choix d'outils internes au sein du groupe Figaro (outil d'archivage, outil de transcription speech2text, ...)",
+    "summary": "Architecte Logiciel au sein de l'équipe éditoriale du Groupe Figaro, je suis un couteau suisse, un profil généraliste. J'automatise les flux, je mets en place des apis, fais évoluer les solutions existantes et les maintient. J'ai mis en place dans l'équipe un worflow de travail agile (git workflow, board Jira). Je passe aussi du temps en veille techno pour proposer des solutions à jour. Je spécifie des architectures applicatives (base de données / backend / frontend), et pilote leur mise en oeuvre. J'ai aussi participé aussi au choix d'outils internes au sein du groupe Figaro (outil d'archivage, outil de transcription speech2text, ...)",
     "location": {
       "countryCode": "FR",
       "address": "France"
@@ -109,7 +109,7 @@
     {
       "name": "Développement web back-end",
       "level": "",
-      "keywords": ["node.js", "express.js", "mongodb", "redis", "docker", "nginx", "php"]
+      "keywords": ["node.js", "express.js", "mongodb", "redis", "docker", "nginx", "php", "swagger"]
     },
     {
       "name": "Amazon Web Services",
@@ -124,7 +124,7 @@
     {
       "name": "Développement full-stack",
       "level": "",
-      "keywords": ["ReactJS", "redux", "ReduxToolkit", "nodeJs", "MongoDB", "socket.io"]
+      "keywords": ["ReactJS", "redux", "ReduxToolkit", "nodeJs", "MongoDB", "socket.io", "NextJS"]
     },
     {
       "name": "Python (langage de programmation)",
@@ -144,32 +144,12 @@
     {
       "name": "Développement front-end",
       "level": "",
-      "keywords": ["ReactJS", "HTML", "CSS", "Redux", "ReduxToolkit"]
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
+      "keywords": ["ReactJS", "Typescript", "HTML", "CSS", "Redux", "ReduxToolkit", "JSON"]
     },   
     {
       "name": "Scripts Shell & unixeries",
       "level": "",
-      "keywords": [ "bash", "awk", "sed"]
-    },
-    {
-      "name": "TypeScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSON",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
+      "keywords": [ "bash", "awk", "sed" , "git"]
     },
     {
       "name": "DevOps",
@@ -191,6 +171,11 @@
     "name": "Adobe Animate",
       "level": "",
       "keywords": ["animation", "game", "quizz", "zim.js"]
+    },
+    {
+      "name": "Support applicatif",
+      "level": "",
+      "keywords": ["EidosMedia", "Workflowgen", "Provigis", "KDS", "Talend ETL"]
     }
   ],
   "languages": [
