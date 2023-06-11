@@ -137,11 +137,6 @@
       "keywords": [ "Graphql", "Mysql", "Redis"]
     },
     {
-      "name": "Architecture technique",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Développement front-end",
       "level": "",
       "keywords": ["ReactJS", "Typescript", "HTML", "CSS", "Redux", "ReduxToolkit", "JSON"]
