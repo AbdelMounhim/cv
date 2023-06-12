@@ -88,6 +88,24 @@
     },
     {
       "institution": "Orsys",
+      "area": "ios",
+      "studyType": "Formation swift iphone-ipad, developper des applications en Swift",
+      "startDate": "2019-12-31",
+      "endDate": "2019-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Orsys",
+      "area": "React JS",
+      "studyType": "formation Node.Js avancé",
+      "startDate": "2017-12-13",
+      "endDate": "2017-12-15",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Orsys",
       "area": "React JS",
       "studyType": "formation React JS",
       "startDate": "2016-09-19",
@@ -99,26 +117,26 @@
       "institution": "Orsys",
       "area": "React Native",
       "studyType": "formation React Native",
-      "startDate": "",
-      "endDate":"",
+      "startDate": "2018-04-04",
+      "endDate":"2018-04-06",
       "score": "",
       "courses": []
     },
-     {
-      "institution": "Clever Institute",
-      "area": "React Native",
-      "studyType": "formation React Native",
-      "startDate": "",
-      "endDate":"",
+    {
+      "institution": "Orsys",
+      "area": "Scrum",
+      "studyType": "formation Agile Scrum",
+      "startDate": "2014-02-12",
+      "endDate":"2014-02-12",
       "score": "",
       "courses": []
     },
      {
       "institution": "Orsys",
-      "area": "React Native",
+      "area": "Premiere Pro",
       "studyType": "formation Adobe Premiere Pro",
-      "startDate": "",
-      "endDate":"",
+      "startDate": "2012-12-10",
+      "endDate":"2012-12-14",
       "score": "",
       "courses": []
     },
@@ -126,17 +144,17 @@
       "institution": "Orsys",
       "area": "Adobe Animate CC",
       "studyType": "formation Adobe Animate CC",
-      "startDate": "",
-      "endDate":"",
+      "startDate": "2017-11-06",
+      "endDate":"2017-11-10",
       "score": "",
       "courses": []
     },
     {
       "institution": "Orsys",
       "area": "Adobe Edge Animate",
-      "studyType": "formation Adobe Edge Animate / interactivité",
-      "startDate": "",
-      "endDate":"",
+      "studyType": "formation Adobe Edge Animate / interaction et Perfectionnement",
+      "startDate": "2013-01-14",
+      "endDate":"2013-01-14",
       "score": "",
       "courses": []
     },
@@ -144,8 +162,8 @@
       "institution": "Orsys",
       "area": "Angular JS",
       "studyType": "formation Angular JS",
-      "startDate": "",
-      "endDate":"",
+      "startDate": "2015-05-27",
+      "endDate":"2015-05-29",
       "score": "",
       "courses": []
     },
@@ -153,29 +171,21 @@
       "institution": "Orsys",
       "area": "RIA",
       "studyType": "formation Javascript & HTML RIA Niveau 1&2",
-      "startDate": "",
-      "endDate":"",
+      "startDate": "2014-07-04",
+      "endDate":"2014-07-09",
       "score": "",
       "courses": []
     },
         {
       "institution": "Orsys",
       "area": "Adobe Edge Animate",
-      "studyType": "certification ITIL Practionner",
-      "startDate": "",
-      "endDate":"",
+      "studyType": "certification ITIL V3 Practionner",
+      "startDate": "2009-06-10",
+      "endDate":"2009-06-12",
       "score": "",
       "courses": []
     }, 
-    {
-      "institution": "Orsys",
-      "area": "ios",
-      "studyType": "Formation swift iphone-ipad",
-      "startDate": "2019-12-31",
-      "endDate": "2019-12-31",
-      "score": "",
-      "courses": []
-    },
+
     {
       "institution": "Université d'Orsay - Paris-Sud",
       "area": "Informatique",
