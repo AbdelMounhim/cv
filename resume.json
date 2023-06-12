@@ -32,7 +32,7 @@
       "startDate": "2001-09-30",
       "endDate": "",
       "highlights": [],
-      "summary": "- Mise en place architecture complète du portail d'automatisation des piges au sein du Figaro\n(React.js / TypeScript / Node.js / Socket.io / MongoDB / Redis / Docker), tests e2e cypress / tests unitaires React Testing Library / mis en place GitLab Ci Cd\nFront-End React / Redux Toolkit / MUI )\n- automatisation ajout/suppression des fournisseurs en fonction de critères d'acceptance (Api Provigis) (bash)\n- mise en place Adobe PDF extract API ( ocr auto pdf => json ) \n- Conception et réalisation d'une passerelle entre les 2 CMS éditoriaux\n- Veille Techno  : Next.js, Apollo Server/Client GraphQL, React Hooks, Typescript,  Adobe Animate & Zim.js\n- Mise en place intégration automatique de photos Adobe Stock avec traduction des métadonnées  (API adobe Stock)\n- mise en place flux infographies responsive (pym.js , ai2html)\n- mise en place d'un portail GraphQL (Apollo Server) pour la gestion d'une base interne\n- mise en place d'une api photos (architecture : Apache ActiveMQ, STOMP, nodeJs) \n- mise en place export de flux vidéos vers des partenaires\n- Dev app gestion de commandes d'articles (ReactJS / Redux / MeteorJS / MongoDB / docker ) \n- interfaces  api / outil éditorial (EidosMedia Methode)\n- spec & dev d'outils d'aide à la décision (SEO, reporting, vidéo), scrapping (casperjs, pupetter)\n\n- configuration et mise en place de passerelles (webservices)\n- Développement animations interactives pour le service infographie du Figaro (Adobe Edge Animate)\n- mise en place transcription automatique contenu vidéos (vecsys)\n- veille techno et choix d'outils\n- migration plateforme archive documentaire et intégration (Sinequa/EidosMedia/Qwam)\n- aide à la mise en place d'une plateforme de data-journalisme  (jquery/json/webservices/python)\n- formation Docker\n- formation React Native\n- formation GraphQL\n- formations Node/React JS avancé\n- formation Adobe Animate CC\n- formation Adobe Premiere Pro  \n- formation Adobe Edge Animate\n- formation Angular JS\n- formation Javascript & HTML RIA Niveau 1&2\n- certification ITIL Practionner",
+      "summary": "- Mise en place architecture complète du portail d'automatisation des piges au sein du Figaro\n(React.js / TypeScript / Node.js / Socket.io / MongoDB / Redis / Docker), tests e2e cypress / tests unitaires React Testing Library / mis en place GitLab Ci Cd\nFront-End React / Redux Toolkit / MUI )\n- automatisation ajout/suppression des fournisseurs en fonction de critères d'acceptance (Api Provigis) (bash)\n- mise en place Adobe PDF extract API ( ocr auto pdf => json ) \n- Conception et réalisation d'une passerelle entre les 2 CMS éditoriaux\n- Veille Techno  : Next.js, Apollo Server/Client GraphQL, React Hooks, Typescript,  Adobe Animate & Zim.js\n- Mise en place intégration automatique de photos Adobe Stock avec traduction des métadonnées  (API adobe Stock)\n- mise en place flux infographies responsive (pym.js , ai2html)\n- mise en place d'un portail GraphQL (Apollo Server) pour la gestion d'une base interne\n- mise en place d'une api photos (architecture : Apache ActiveMQ, STOMP, nodeJs) \n- mise en place export de flux vidéos vers des partenaires\n- Dev app gestion de commandes d'articles (ReactJS / Redux / MeteorJS / MongoDB / docker ) \n- interfaces  api / outil éditorial (EidosMedia Methode)\n- spec & dev d'outils d'aide à la décision (SEO, reporting, vidéo), scrapping (casperjs, pupetter)\n\n- configuration et mise en place de passerelles (webservices)\n- Développement animations interactives pour le service infographie du Figaro (Adobe Edge Animate)\n- mise en place transcription automatique contenu vidéos (vecsys)\n- veille techno et choix d'outils\n- migration plateforme archive documentaire et intégration (Sinequa/EidosMedia/Qwam)\n- aide à la mise en place d'une plateforme de data-journalisme  (jquery/json/webservices/python)\n",
       "url": "https://www.linkedin.com/company/18391",
       "location": "France"
     },
@@ -63,8 +63,8 @@
       "institution": "Orsys",
       "area": "Docker",
       "studyType": "Docker : créer et administrer des conteneurs virtuels d'applications",
-      "startDate": "2022-12-31",
-      "endDate":"2022-12-31",
+      "startDate": "2022-12-10",
+      "endDate":"2022-12-12",
       "score": "",
       "courses": []
     },
@@ -72,12 +72,101 @@
       "institution": "CLEVER INSTITUTE - Human Coders",
       "area": "GraphQL ",
       "studyType": "Formation GraphQL ",
-      "startDate": "2020-12-31",
-      "endDate": "2020-12-31",
+      "startDate": "2020-12-17",
+      "endDate": "2020-12-18",
       "score": "",
       "courses": []
     },
-   
+    {
+      "institution": "Orsys",
+      "area": "React JS",
+      "studyType": "formation React JS, programmation avancée",
+      "startDate": "2019-11-18",
+      "endDate": "2019-11-21",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Orsys",
+      "area": "React JS",
+      "studyType": "formation React JS",
+      "startDate": "2016-09-19",
+      "endDate": "2016-09-21",
+      "score": "",
+      "courses": []
+    },
+     {
+      "institution": "Orsys",
+      "area": "React Native",
+      "studyType": "formation React Native",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+     {
+      "institution": "Clever Institute",
+      "area": "React Native",
+      "studyType": "formation React Native",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+     {
+      "institution": "Orsys",
+      "area": "React Native",
+      "studyType": "formation Adobe Premiere Pro",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+     {
+      "institution": "Orsys",
+      "area": "Adobe Animate CC",
+      "studyType": "formation Adobe Animate CC",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Orsys",
+      "area": "Adobe Edge Animate",
+      "studyType": "formation Adobe Edge Animate / interactivité",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+        {
+      "institution": "Orsys",
+      "area": "Angular JS",
+      "studyType": "formation Angular JS",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+        {
+      "institution": "Orsys",
+      "area": "RIA",
+      "studyType": "formation Javascript & HTML RIA Niveau 1&2",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    },
+        {
+      "institution": "Orsys",
+      "area": "Adobe Edge Animate",
+      "studyType": "certification ITIL Practionner",
+      "startDate": "",
+      "endDate":"",
+      "score": "",
+      "courses": []
+    }, 
     {
       "institution": "Orsys",
       "area": "ios",
